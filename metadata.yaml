@@ -1,0 +1,25 @@
+_repo: How-to-get-an-air-job_71315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byrne, Jack
+    gutenberg_agent_id: '56172'
+    url: http://www.gutenberg.org/2009/agents/56172
+description: ''
+gutenberg_issued: '2023-08-01'
+identifiers:
+  gutenberg: '71315'
+language: en
+pgterms:marc904: https://archive.org/details/AirStoriesV01n01192708.FictionHousebWEditpulpmags.org
+pgterms:marc905: 20230721024701byrne
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank
+publication_note: '  $aNew York :$bFiction House, Inc., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How to get an air job
+url: http://www.gutenberg.org/ebooks/71315
